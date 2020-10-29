@@ -1,4 +1,13 @@
-# FirstProject
+# Angular Recipe Book
+
+-This is an angular 10 project.It is a recipe book web application.It includes user authentition and user can be able to add their own recipes ,edit ,upadate and delete the recipe.
+
+-Technologies used are : Angular 10, Bootstrap ,HTML,Typescript , Javascript Firebase Rest API.
+
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
