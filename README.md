@@ -1,9 +1,20 @@
 # Angular Recipe Book
 
--This is an angular 10 project.It is a recipe book web application.It includes user authentition and user can be able to add their own recipes ,edit ,upadate and delete the recipe.
+-This is an angular 10 project.It is a recipe book web application that a user can use to save their cooking recipes.It includes user authentition and user can be able to add their own recipes ,edit ,upadate and delete the recipe.
 
--Technologies used are : Angular 10, Bootstrap, HTML,Typescript , Javascript Firebase Rest API.
+# How it works:
+The landing page is an authentication page. After authenticating, you click on the top right "manage" toggle and click fetch to see the available recipes. To create a new recipe, you click on the green "New recipe" button, add your recipe info and save it. After saving it, you go the top right "manage" toggle and click save to save the recipe in the database.
 
+
+
+# Technologies used:
+ Angular 10, Bootstrap, HTML,Typescript , Javascript Firebase Rest API.
+ 
+#Preview
+
+![Screenshot 2021-07-14 at 16 10 28](https://user-images.githubusercontent.com/54495258/125627726-2863ccbc-0063-4c07-bddd-f8df29b18779.png)
+![project_2](https://user-images.githubusercontent.com/54495258/125627517-ace6fef4-413d-4dc1-91e8-d537d4237b34.png)
+![recipepage](https://user-images.githubusercontent.com/54495258/125626416-33350df9-2351-45a9-aa8b-3ca584823d5e.png)
 
 
 
